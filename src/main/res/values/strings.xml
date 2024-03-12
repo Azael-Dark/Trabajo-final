@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Girardota</string>
+
+    <string name="botonHoteles">Hoteles</string>
+    <string name="botonRestaurantes">Restaurantes</string>
+    <string name="botonSitios">Sitios turisticos</string>
+
+    <string name="titulohomehoteles">Hotel Ubicado En Girardota</string>
+    <string name="descripcionhomehoteles">En nuestro municipio hay hoteles desde 35000 COP hasta las
+        lujosas cabañas dotadas de todos los elementos para promover un buen descanso</string>
+    <string name="botonhomehoteles">Ver hoteles</string>
+
+    <string name="titulohomerestaurantes">Restaurantes En Girardota</string>
+    <string name="descripcionrestaurantes">Los restaurantes en el municipio de girardota crea un ambiente relajado y sereno
+        ideal para disfrutar de una rica comida al aire libre. </string>
+    <string name="botonhomerestaurantes">Ver Restaurantes</string>
+
+
+    <string name="titulohomesitios">Sitios Turisticos</string>
+    <string name="descripcionresitios">
+        Girardota, Colombia, ofrece a los visitantes una mezcla encantadora de naturaleza, cultura y tradición. Algunos de sus sitios turísticos más destacados incluyen:
+        Parque Ecológico Piedras Blancas: Ideal para los amantes de la naturaleza, este parque ofrece senderos para caminatas, cascadas y hermosas vistas panorámicas.
+        Iglesia de Nuestra Señora del Rosario: Un símbolo arquitectónico de la ciudad, esta iglesia católica ofrece una mirada a la historia y la cultura religiosa de Girardota.
+        Cascada La Miel: Un destino popular para los aventureros, esta cascada ofrece la oportunidad de disfrutar de un refrescante baño en medio de un entorno natural impresionante.
+        Parque Principal: Un lugar perfecto para relajarse y disfrutar del ambiente local, donde puedes encontrar restaurantes, tiendas y una vibrante vida nocturna.
+        Finca Cafetera La Juanita: Una experiencia única para aprender sobre el proceso de producción del café colombiano, desde la siembra hasta la taza.
+        Estos son solo algunos de los muchos lugares encantadores que Girardota tiene para ofrecer a los visitantes que buscan explorar la belleza y la cultura de Colombia. </string>
+
+    <string name="opcion1">Ingles</string>
+    <string name="opcion2">Español</string>
+    <string name="opcion3">Francés</string>
+    <string name="opcion4">Reseña</string>
+    <string name="opcion5">Acerca de</string>
+
+    <string name="titulohomeresena2">Historia de Girardota </string>
+
+    <string name="historiamanaure">La zona en la que hoy se encuentra Girardota fue habitada por los indígenas Nutabes y Yamesíes, que se dedican básicamente a la agricultura.
+        1620- En este año un grupo de colones  de Antioquia  se ubicó en el paraje de San Diego y fundó el caserío, el cual quedo dependiendo de la ciudad de Santa Fe de Antioquia, hasta 1675 que paso a depender del caserío de la Villa de Medellín.
+        1648- Las tierras fueron adquiridas por Margarita de Alarcón; a la muerte de esta fueron rematadas en la plaza pública de Santa Fe de Antioquia en 1651 y las adquirió Antonio Gómez de Salazar para su hermano Juan Gómez de Salazar gobernador como San Esteban donde tuvo un hato que dominó “Hatogrande” y un poco hacia el norte otro, el “Hatillo”. Esos hatos, al igual que el llamado “Hatoviejo” pasaron a poder de Ana de Castrillón.
+        1734- El Doctor sancho Londoño Zapata, hermano de doña Javiera, compró las tierras de Hatogrande, luego las heredo el pbro. Manuel Londoño Molina a quien se considera como el fundador de la población, quien era propietario de diferentes casas en Medellín, de animales y de una capilla en Hatogrande la que dotó con  prodigalidad y para la que hizo traer la imagen del señor Caído.
+        1757- El gobernador José Barón de Chaves creo el partido de Hatogrande, dependiente del cabildo de Medellín.
+        1833-  El gobernador Juan de Dios Aranzazu creó la parroquia. Dice la parte principal del decreto: “Erigirse en el de Hatogrande, en donde está la Capilla del señor Caído una nueva parroquia con el nombre de Girardota para conservar la memoria del esforzado Coronel y distinguido Atanasio Girardot”. El gobierno central dio su aprobación poco después y la población fue erigida con 1.824 habitantes, comenzando así la vida civil del nuevo Municipio de Girardota. Por su parte el Vicario Capitulas Pbro. José Miguel de la Calle expidió el decreto ratificando la erección en 1834.
+        1912-  La Ordenanza 37 del 29 de abril de 1912 hizo una modificación en el nombre al disponer que sería el de Girardot pero la Ordenanza 18 de 11 de abril del año siguiente, 1913 dispuso: “A partir de la publicación de la presente Ordenanza el Municipio de Girardot se llamará oficialmente Girardota.</string>
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="botonHoteles">Hotels</string>
+    <string name="botonRestaurantes">Restaurants</string>
+    <string name="botonSitios">tourist sites</string>
+
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hotel Located In Girardota</string>
+    <string name="descripcionhomehoteles">In our town, you will find accommodations ranging from 35000 COP
+        to luxurious cabins equipped with all the elements to promote a restorative rest.</string>
+    <string name="botonhomehoteles">See hoteles</string>
+
+    <string name="titulohomerestaurantes">Restaurants in Girardota</string>
+    <string name="descripcionrestaurantes">The restaurants in the municipality of Giradota create a relaxed and serene atmosphere ideal for enjoying a delicious meal outdoors.
+ </string>
+    <string name="botonhomerestaurantes">see Restaurants</string>
+
+    <string name="titulohomesitios">tourist sites</string>
+    <string name="descripcionresitios">Girardota, Colombia, offers visitors a charming mix of nature, culture and tradition. Some of its most notable tourist sites include:
+    Piedras Blancas Ecological Park: Ideal for nature lovers, this park offers hiking trails, waterfalls, and beautiful panoramic views.
+        Church of Our Lady of the Rosary: An architectural symbol of the city, this Catholic church offers a glimpse into the history and religious culture of Girardota.
+        La Miel Waterfall: A popular destination for adventurers, this waterfall offers the opportunity to enjoy a refreshing swim amidst a stunning natural environment.
+        Parque Principal: A perfect place to relax and enjoy the local atmosphere, where you can find restaurants, shops and a vibrant nightlife.
+        La Juanita Coffee Farm: A unique experience to learn about the Colombian coffee production process, from planting to cup.
+        These are just a few of the many charming places that Girardota has to offer visitors looking to explore the beauty and culture of Colombia. </string>
+
+
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">French</string>
+    <string name="opcion4">Review</string>
+    <string name="opcion5">About us</string>
+
+    <string name="titulohomeresena2">History of Girardota </string>
+
+    <string name="historiamanaure">"The area where Girardota is located today was inhabited by the Nutabes and Yamesíes indigenous people, who were basically dedicated to agriculture.
+        1620- In this year a group of colonists from Antioquia settled in the area of San Diego and founded the hamlet, which remained dependent on the city of Santa Fe de Antioquia, until 1675 when it became dependent on the hamlet of the Villa de Medellín .
+        1648- The lands were acquired by Margarita de Alarcón; Upon her death, they were auctioned off in the public square of Santa Fe de Antioquia in 1651 and were acquired by Antonio Gómez de Salazar for his brother Juan Gómez de Salazar, governor as San Esteban, where he had a herd that dominated “Hatogrande” and a little towards the north another, the “Hatillo”. These herds, like the so-called “Hatoviejo” came into the possession of Ana de Castrillón.
+        1734- Doctor Sancho Londoño Zapata, brother of Doña Javiera, bought the lands of Hatogrande, then the priest inherited them. Manuel Londoño Molina, who is considered the founder of the town, who owned different houses in Medellín, animals and a chapel in Hatogrande, which he lavishly endowed and for which he had the image of Mr. Fallen brought.
+        1757- Governor José Barón de Chaves created the Hatogrande party, dependent on the Medellín council.
+        1833- Governor Juan de Dios Aranzazu created the parish. The main part of the decree says: “To establish in Hatogrande, where the Chapel of Mr. Fallen is located, a new parish with the name of Girardota to preserve the memory of the hardworking and distinguished Colonel Atanasio Girardot.” The central government gave its approval shortly after and the town was erected with 1,824 inhabitants, thus beginning the civil life of the new Municipality of Girardota. For his part, the Vicar Capitulas Pbro. José Miguel de la Calle issued the decree ratifying the erection in 1834.
+        1912- Ordinance 37 of April 29, 1912 made a modification in the name by providing that it would be Girardot, but Ordinance 18 of April 11 of the following year, 1913, provided: “As of the publication of this Ordinance, the Girardot Municipality will be officially called Girardota.</string>
+</resources>
